@@ -19,4 +19,7 @@
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcanjowz&show_icons=true&bg_color=00000000)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arcanjowz&theme=transparent&border_radius=15&locale=pt_BR)](https://git.io/streak-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arcanjowz&show_icons=true&bg_color=00000000&theme=transparent" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arcanjowz&theme=transparent&border_radius=15&locale=pt_BR" />
+</div>
