@@ -27,8 +27,6 @@
 
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcanjowz&show_icons=true&locale=pt-br&layout=compact" alt="arcanjowz" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcanjowz&show_icons=true&bg_color=00000000)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arcanjowz&show_icons=true&locale=pt-br" alt="arcanjowz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arcanjowz&" alt="arcanjowz" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arcanjowz&theme=transparent&border_radius=15&locale=pt_BR)](https://git.io/streak-stats)
