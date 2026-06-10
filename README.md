@@ -1,8 +1,5 @@
-<!-- Snake animation — gerada automaticamente via GitHub Actions (ver instruções abaixo) -->
-
 <div align="center">
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FB5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Miguel+%F0%9F%91%8B;Software+Engineering+%40+PUCPR;Linux+enjoyer+%7C+Arch+btw+%F0%9F%90%A7;Building+stuff+with+Python+%26+FastAPI;Always+learning%2C+always+breaking+things)](https://git.io/typing-svg)
 
 </div>
@@ -51,8 +48,6 @@
 ## 🐍 Contribution Snake
 <img src="https://raw.githubusercontent.com/arcanjowz/arcanjowz/output/github-contribution-grid-snake-dark.svg" />
 
-> ⚙️ **Para ativar a cobra:** crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o conteúdo da seção de instruções no final deste arquivo.
-
 ---
 
 ## 🏆 Troféus
@@ -79,44 +74,6 @@
 </div>
 
 ---
-
-<!-- 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  INSTRUÇÕES — COBRA DO CALENDÁRIO (SNAKE)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. No repositório arcanjowz/arcanjowz, crie a pasta:
-   .github/workflows/
-
-2. Dentro dela, crie o arquivo snake.yml com este conteúdo:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: arcanjowz
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-3. Após o primeiro run, descomente a linha da cobra no README:
-   <img src="https://raw.githubusercontent.com/arcanjowz/arcanjowz/output/github-contribution-grid-snake-dark.svg" />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
