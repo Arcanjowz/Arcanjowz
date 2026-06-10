@@ -56,15 +56,12 @@
 ## 📻 Vibes
 
 <div align="center">
-
-<img src="badges/arch-btw.svg" />
-<img src="badges/pacman.svg" />
-<img src="badges/neovim.svg" />
-<img src="badges/metallica.svg" />
-<img src="badges/megadeth.svg" />
-<img src="badges/lain-wired.svg" />
-<img src="badges/lain-god.svg" />
-
+<img src="badges/btw.gif" />
+<img src="badges/z2.gif" />
+<img src="badges/z25.gif" />
+<img src="badges/z47.gif" />
+<img src="badges/star.gif" />
+</div>
 
 </div>
 
