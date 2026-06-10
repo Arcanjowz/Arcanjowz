@@ -49,7 +49,7 @@
 ---
 
 ## 🐍 Contribution Snake
-<!-- <img src="https://raw.githubusercontent.com/arcanjowz/arcanjowz/output/github-contribution-grid-snake-dark.svg" /> -->
+<img src="https://raw.githubusercontent.com/arcanjowz/arcanjowz/output/github-contribution-grid-snake-dark.svg" />
 
 > ⚙️ **Para ativar a cobra:** crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o conteúdo da seção de instruções no final deste arquivo.
 
