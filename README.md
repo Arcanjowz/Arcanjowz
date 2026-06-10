@@ -7,7 +7,7 @@
 ---
 
 ```
-╔══════════════════════════════════════════════════════╗
+╔═══════════════════════════╗
 ║  arcanjo@arch ~                                      ║
 ║  $ whoami                                            ║
 ║                                                      ║
@@ -17,7 +17,7 @@
 ║  > Distro: Arch Linux (btw)                          ║
 ║  > Editor: Neovim                                    ║
 ║  > Currently learning: Full Stack development        ║
-╚══════════════════════════════════════════════════════╝
+╚═══════════════════════════╝
 ```
 
 ---
@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanjowz&layout=compact&theme=transparent&hide_border=true&title_color=6A9FB5&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanjowz&layout=compact&theme=transparent&hide_border=true&title_color=6A9FB5&text_color=ffffff&count_private=true&include_forked_repos=true" />
 </div>
 
 ---
