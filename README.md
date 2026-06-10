@@ -1,25 +1,83 @@
-<h1 align="center">Hi 👋, I'm Miguel Pavin Olescki</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arcanjowz&label=Profile%20views&color=0e75b6&style=flat" alt="arcanjowz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arcanjowz" alt="arcanjowz" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Snake animation — gerada automaticamente via GitHub Actions (ver instruções abaixo) -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arcanjowz&show_icons=true&bg_color=00000000&theme=transparent" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arcanjowz&theme=transparent&border_radius=15&locale=pt_BR" />
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A9FB5&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Miguel+%F0%9F%91%8B;Software+Engineering+%40+PUCPR;Linux+enjoyer+%7C+Arch+btw+%F0%9F%90%A7;Building+stuff+with+Python+%26+FastAPI;Always+learning%2C+always+breaking+things)](https://git.io/typing-svg)
+
 </div>
+
+---
+
+```
+╔══════════════════════════════════════════════════════╗
+║  miguel@arch ~                                       ║
+║  $ whoami                                            ║
+║                                                      ║
+║  > Software Engineering student @ PUCPR              ║
+║  > AWS re/START certified                            ║
+║  > English: advanced/fluent                          ║
+║  > Distro: Arch Linux (btw)                         ║
+║  > Editor: Neovim (real ones know)                  ║
+║  > Currently learning: Full Stack development        ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🛠 Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,fastapi,linux,git,aws,neovim&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arcanjowz&show_icons=true&theme=transparent&hide_border=true&title_color=6A9FB5&icon_color=6A9FB5&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=arcanjowz&theme=transparent&hide_border=true&border_radius=10&locale=pt_BR&ring=6A9FB5&fire=6A9FB5&currStreakLabel=6A9FB5" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcanjowz&layout=compact&theme=transparent&hide_border=true&title_color=6A9FB5&text_color=ffffff" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<!-- Depois de configurar o GitHub Action (ver instruções abaixo), troque pela linha comentada: -->
+<!-- <img src="https://raw.githubusercontent.com/arcanjowz/arcanjowz/output/github-contribution-grid-snake-dark.svg" /> -->
+
+> ⚙️ **Para ativar a cobra:** crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o conteúdo da seção de instruções no final deste arquivo.
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arcanjowz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## 📬 Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-pavin-olescki-6165912ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arcanjowz)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arcanjowz&label=Profile+views&color=6A9FB5&style=flat" alt="arcanjowz" />
+</div>
+
+---
