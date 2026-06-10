@@ -11,14 +11,14 @@
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  miguel@arch ~                                       ║
+║  arcanjo@arch ~                                      ║
 ║  $ whoami                                            ║
 ║                                                      ║
 ║  > Software Engineering student @ PUCPR              ║
 ║  > AWS re/START certified                            ║
 ║  > English: advanced/fluent                          ║
-║  > Distro: Arch Linux (btw)                         ║
-║  > Editor: Neovim (real ones know)                  ║
+║  > Distro: Arch Linux (btw)                          ║
+║  > Editor: Neovim                                    ║
 ║  > Currently learning: Full Stack development        ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -49,9 +49,7 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<!-- Depois de configurar o GitHub Action (ver instruções abaixo), troque pela linha comentada: -->
-<!-- <img src="https://raw.githubusercontent.com/arcanjowz/arcanjowz/output/github-contribution-grid-snake-dark.svg" /> -->
+<img src="https://raw.githubusercontent.com/arcanjowz/arcanjowz/output/github-contribution-grid-snake-dark.svg" />
 
 > ⚙️ **Para ativar a cobra:** crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o conteúdo da seção de instruções no final deste arquivo.
 
@@ -81,3 +79,44 @@
 </div>
 
 ---
+
+<!-- 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  INSTRUÇÕES — COBRA DO CALENDÁRIO (SNAKE)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. No repositório arcanjowz/arcanjowz, crie a pasta:
+   .github/workflows/
+
+2. Dentro dela, crie o arquivo snake.yml com este conteúdo:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: arcanjowz
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+3. Após o primeiro run, descomente a linha da cobra no README:
+   <img src="https://raw.githubusercontent.com/arcanjowz/arcanjowz/output/github-contribution-grid-snake-dark.svg" />
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+-->
