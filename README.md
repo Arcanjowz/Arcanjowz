@@ -50,14 +50,6 @@
 
 ---
 
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arcanjowz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
 ## 📬 Contato
 
 <div align="center">
