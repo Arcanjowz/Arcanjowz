@@ -117,16 +117,4 @@
   badges/lain-god.svg
   <svg xmlns="http://www.w3.org/2000/svg" width="88" height="31"><rect width="88" height="31" fill="#080008"/><rect width="28" height="31" fill="#1a0030"/><text x="14" y="20" font-size="11" text-anchor="middle" fill="#cc44ff" font-family="monospace" font-weight="bold">?</text><text x="58" y="12" font-size="6" font-family="monospace" font-weight="bold" fill="#cc44ff">God?</text><text x="58" y="23" font-size="5" font-family="monospace" fill="#4a0080">I am God.</text></svg>
 
-  badges/python.svg
-  <svg xmlns="http://www.w3.org/2000/svg" width="88" height="31"><rect width="88" height="31" fill="#1a1a2e"/><rect width="28" height="31" fill="#306998"/><text x="14" y="21" font-size="14" text-anchor="middle" fill="#ffd43b" font-family="monospace">*</text><text x="58" y="12" font-size="6" font-family="monospace" font-weight="bold" fill="#ffd43b">PYTHON</text><text x="58" y="22" font-size="5" font-family="monospace" fill="#c0c0c0">3.x</text></svg>
-
-  badges/git-yolo.svg
-  <svg xmlns="http://www.w3.org/2000/svg" width="88" height="31"><rect width="88" height="31" fill="#0d1117"/><rect width="28" height="31" fill="#f05032"/><text x="14" y="21" font-size="12" text-anchor="middle" fill="white" font-family="monospace">+-</text><text x="58" y="11" font-size="6" font-family="monospace" font-weight="bold" fill="#f05032">GIT</text><text x="58" y="20" font-size="5" font-family="monospace" fill="#888">push -f</text><text x="58" y="28" font-size="5" font-family="monospace" fill="#f05032">YOLO</text></svg>
-
-  badges/fastapi.svg
-  <svg xmlns="http://www.w3.org/2000/svg" width="88" height="31"><rect width="88" height="31" fill="#0d1117"/><rect width="28" height="31" fill="#FF6B00"/><text x="14" y="21" font-size="12" text-anchor="middle" fill="white" font-family="monospace">!</text><text x="58" y="12" font-size="5" font-family="monospace" font-weight="bold" fill="#FF6B00">FASTAPI</text><text x="58" y="21" font-size="5" font-family="monospace" fill="#888">async</text><text x="58" y="29" font-size="5" font-family="monospace" fill="#00ff00">UP</text></svg>
-
-  badges/aws.svg
-  <svg xmlns="http://www.w3.org/2000/svg" width="88" height="31"><rect width="88" height="31" fill="#0a0010"/><rect width="28" height="31" fill="#232F3E"/><text x="14" y="20" font-size="7" text-anchor="middle" fill="#FF9900" font-family="monospace" font-weight="bold">aws</text><text x="58" y="13" font-size="5" font-family="monospace" font-weight="bold" fill="#FF9900">CERTIFIED</text><text x="58" y="23" font-size="5" font-family="monospace" fill="white">reSTART</text></svg>
-
 ═══════════════════════════════════════════════ -->
