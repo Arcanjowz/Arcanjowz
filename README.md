@@ -91,14 +91,7 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 
 ### ✞ Core Telemetry
 
-<div align="center">
-
-<img height="175em" src="https://github-stats-extended.vercel.app/api?username=arcanjowz&show_icons=true&bg_color=00000000&hide_border=true&title_color=8B0000&icon_color=8B0000&text_color=7a7a7a" alt="GitHub Stats" />
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=arcanjowz&theme=transparent&hide_border=true&border_radius=0&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=7a7a7a&sideLabels=7a7a7a&dates=555555" alt="Streak Stats" />
-
-<br>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arcanjowz&layout=compact&bg_color=00000000&hide_border=true&title_color=8B0000&text_color=7a7a7a&count_private=true&include_forked_repos=true" alt="Top Languages" />
+<div align="center"> <img height="180" src="https://github-stats-extended.vercel.app/api?username=arcanjowz&show_icons=true&hide_border=false&border_color=3a1218&border_radius=6&bg_color=120a0c&title_color=E63946&icon_color=C9A227&text_color=E8DCC8&ring_color=C41E3A&text_bold=false" alt="GitHub Stats" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=arcanjowz&background=120a0c&border=3a1218&stroke=3a1218&ring=C41E3A&fire=E63946&currStreakNum=E8DCC8&sideNums=E8DCC8&currStreakLabel=C9A227&sideLabels=A8A29A&dates=A8A29A&border_radius=6&locale=pt_BR" alt="Streak Stats" /> <br> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arcanjowz&layout=compact&hide_border=false&border_color=3a1218&border_radius=6&bg_color=120a0c&title_color=E63946&text_color=E8DCC8&count_private=true&include_forked_repos=true" alt="Top Languages" /> </div>
 
 </div>
 
