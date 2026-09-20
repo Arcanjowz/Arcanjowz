@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="./output.gif" width="650" alt="Terminal OS Boot" />
+<img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=arcanjowz&theme=dracula&headerStyle=retro" width="650" alt="Terminal OS Boot" />
 
 </div>
 
