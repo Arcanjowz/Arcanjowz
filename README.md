@@ -29,11 +29,11 @@
 <summary><b>🇬🇧 English</b></summary>
 <br>
 
-Software Engineering student at **PUCPR**. I live in the terminal, run **Arch Linux** (btw), and edit everything in **Neovim**. Studying **Full Stack** and **DevSecOps**, with a soft spot for low-level code, databases and servers.
+Software Engineering student at PUCPR. I use Arch Linux as the main system. Studying Full Stack and DevSecOps, with a fondness for low-level code, databases, servers and security! 
 
-- 🔭 Building: web backends, automation scripts, Neovim/Lua configs
-- 🌱 Learning: DevSecOps, hardening, infra
-- 🗣️ Languages: Portuguese (native) · English (fluent) · Russian (basic)
+- Building: web backends, automation scripts, Neovim/Lua configs
+- Learning: DevSecOps, hardening, infrastructure and everything I feel like (and there are many)!
+- Languages: Portuguese (native) · English (fluent) · Russian (basic)
 
 </details>
 
@@ -42,11 +42,11 @@ Software Engineering student at **PUCPR**. I live in the terminal, run **Arch Li
 <summary><b>🇧🇷 Português (BR)</b></summary>
 <br>
 
-Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch Linux** (btw) e edito tudo no **Neovim**. Estudando **Full Stack** e **DevSecOps**, com carinho por código de baixo nível, bancos de dados e servidores.
+Estudante de Engenharia de Software na **PUCPR**. Utilizo **Arch Linux** como sistema principal. Estudando **Full Stack** e **DevSecOps**, com carinho por código de baixo nível, bancos de dados, servidores e segurança!
 
-- 🔭 Construindo: backends web, scripts de automação, configs de Neovim/Lua
-- 🌱 Aprendendo: DevSecOps, hardening, infraestrutura
-- 🗣️ Idiomas: Português (nativo) · Inglês (fluente) · Russo (básico)
+- Construindo: backends web, scripts de automação, configs de Neovim/Lua
+- Aprendendo: DevSecOps, hardening, infraestrutura e tudo que me der vontade (e são muitas)!
+- Idiomas: Português (nativo) · Inglês (fluente) · Russo (básico)
 
 </details>
 
@@ -55,11 +55,11 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 <summary><b>🇷🇺 Русский</b></summary>
 <br>
 
-Студент направления «Программная инженерия» в **PUCPR**. Живу в терминале, сижу на **Arch Linux** (btw) и всё пишу в **Neovim**. Изучаю **Full Stack** и **DevSecOps**, люблю низкоуровневый код, базы данных и серверы.
+Студент программной инженерии в PUCPR. Я использую Arch Linux как основную систему. Изучаю Full Stack и DevSecOps, увлекаюсь низкоуровневым кодом, базами данных, серверами и безопасностью! 
 
-- 🔭 Делаю: веб-бэкенды, скрипты автоматизации, конфиги Neovim/Lua
-- 🌱 Изучаю: DevSecOps, харденинг, инфраструктуру
-- 🗣️ Языки: португальский (родной) · английский (свободно) · русский (базовый)
+- Сборка: веб-бэкенды, скрипты автоматизации, конфигурации Neovim/Lua
+- Обучение: DevSecOps, усиление, инфраструктура и всё, что мне нравится (а их много)!
+- Языки: португальский (родной) · Английский (свободно владеет) · Русский (базовый)
 
 </details>
 
