@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=%F0%9D%95%AC%F0%9D%95%BD%F0%9D%95%AE%F0%9D%95%AC%F0%9D%95%B9%F0%9D%95%B5%F0%9D%95%BA&fontSize=80&fontColor=8B0000&stroke=000000&strokeWidth=2&animation=twinkling&fontAlignY=38&desc=%E2%9C%9E%20Software%20Engineer%20%C2%B7%20Arch%20Linux%20%C2%B7%20DevSecOps%20%E2%9C%9E&descSize=18&descAlignY=62&descColor=7a7a7a" width="100%" alt="header" />
+<img src="./badges/header.svg" width="100%" alt="Arcanjo" />
+
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&pause=1000&color=8B0000&background=00000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Arcanjo+%E2%9C%9E;Software+Engineering+%40+PUCPR;Arch+Linux+enjoyer+%28btw%29;Currently+studying+Full+Stack+%26+DevSecOps;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%90%D1%80%D0%BA%D0%B0%D0%BD%D0%B6%D0%BE;Ol%C3%A1%2C+eu+sou+o+Arcanjo;No+matter+where+you+go%2C+everyone+is+connected." alt="Typing SVG" />
@@ -106,6 +108,38 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 
 ---
 
+### ✞ Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arcanjowz&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+### ✞ Commit Skyline
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/arcanjowz?template=classic&isocalendar=1&isocalendar.duration=full-year&base=0&config.theme=dark" alt="Isometric Commit Calendar" />
+
+</div>
+
+---
+
+### ✞ Resonance (Spotify Live)
+
+<div align="center">
+
+<a href="https://open.spotify.com">
+  <img src="https://spotify-github-readme.cheerpy.org/api/status?uid=c14261c083fb492b&background_color=00000000&bar_color=8B0000&bar_color_cover=true" alt="Spotify Status" />
+</a>
+
+</div>
+
+---
+
 ### ✞ Graveyard Commits
 
 <div align="center">
@@ -137,9 +171,11 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
   <img src="./badges/linkedin.svg" width="300" alt="LinkedIn" />
 </a>
 
-<br>
+<br><br>
 
 <img src="./badges/visits.svg" width="300" alt="Souls Visited" />
+<br>
+<img src="https://count.getloli.com/@arcanjowz?name=arcanjowz&theme=nixietube-1&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" alt="Visitor counter" />
 
 <br><br>
 
@@ -147,6 +183,6 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
+<img src="./badges/footer.svg" width="100%" alt="footer" />
 
 </div>
