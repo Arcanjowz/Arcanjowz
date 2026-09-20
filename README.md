@@ -63,7 +63,7 @@
 <div align="center">
 
 <a href="https://open.spotify.com">
-  <img src="https://spotify-github-readme.cheerpy.org/api/status?uid=SEU_SPOTIFY_USER_ID&background_color=00000000&bar_color=8B0000&bar_color_cover=true" alt="Spotify Status" />
+  <img src="https://spotify-github-readme.cheerpy.org/api/status?uid=c14261c083fb492b&background_color=00000000&bar_color=8B0000&bar_color_cover=true" alt="Spotify Status" />
 </a>
 
 </div>
