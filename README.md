@@ -122,12 +122,12 @@ Estudante de Engenharia de Software na **PUCPR**. Utilizo **Arch Linux** como si
 <br>
 
 <a href="https://www.linkedin.com/in/miguel-pavin-olescki-6165912ab/">
-  <img src="./badges/linkedin.svg" width="420" alt="LinkedIn" />
+  <img src="./badges/linkedin.svg" width="420" height="100px" alt="LinkedIn" />
 </a>
 
 <br><br>
 
-<img src="./badges/visits.svg" width="420" alt="Souls Visited" /><br><img src="https://count.getloli.com/@arcanjowz?name=arcanjowz&theme=nixietube-1&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" width="420" height="100px" alt="Visitor counter" />
+<img src="./badges/visits.svg" width="420" height="100px" alt="Souls Visited" /><br><img src="https://count.getloli.com/@arcanjowz?name=arcanjowz&theme=nixietube-1&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" width="420" height="100px" alt="Visitor counter" />
 
 <br><br>
 
