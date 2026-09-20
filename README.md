@@ -134,12 +134,12 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 <br>
 
 <a href="https://www.linkedin.com/in/miguel-pavin-olescki-6165912ab/">
-  <img src="https://img.shields.io/badge/%E2%9C%9E%20NETWORK-CONNECT-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" alt="LinkedIn" />
+  <img src="./badges/linkedin.svg" width="300" alt="LinkedIn" />
 </a>
 
-<br><br>
+<br>
 
-<img src="https://hits.sh/github.com/arcanjowz.svg?style=flat-square&label=souls%20visited&color=8B0000&labelColor=0d0d0d" alt="Visitors" />
+<img src="./badges/visits.svg" width="300" alt="Souls Visited" />
 
 <br><br>
 
