@@ -7,17 +7,17 @@
 ---
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  arcanjo@arch ~                                      ║
-║  $ whoami                                            ║
-║                                                      ║
-║  > Software Engineering student @ PUCPR              ║
-║  > AWS re/START certified                            ║
-║  > English: advanced/fluent                          ║
-║  > Distro: Arch Linux (btw)                          ║
-║  > Editor: Neovim                                    ║
-║  > Currently learning: Full Stack development        ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  arcanjo@arch ~                                              ║
+║  $ whoami                                                    ║
+║                                                              ║  
+║  > Software Engineering student @ PUCPR                      ║
+║  > Russian: Basic                                            ║
+║  > English: Advanced/Fluent                                  ║
+║  > Distro: Arch Linux (btw)                                  ║
+║  > Editor: Neovim | VsCode                                   ║
+║  > Currently learning: Full Stack development | DevSecOps    ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
