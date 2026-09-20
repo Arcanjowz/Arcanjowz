@@ -106,26 +106,6 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 
 ---
 
-### ✞ Trophy Cabinet
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arcanjowz&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
-
-</div>
-
----
-
-### ✞ Commit Skyline
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/arcanjowz?template=classic&isocalendar=1&isocalendar.duration=full-year&base=0&config.theme=dark" alt="Isometric Commit Calendar" />
-
-</div>
-
----
-
 ### ✞ Resonance (Spotify Live)
 
 <div align="center">
