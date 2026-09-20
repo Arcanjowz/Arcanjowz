@@ -1,6 +1,7 @@
 <div align="center">
 
 <pre>
+ 
  ▄▄▄       ██▀███   ▄████▄   ▄▄▄       ███▄    █  ▄▄▄██▀▀▀ ▒█████  
 ▒████▄    ▓██ ▒ ██▒▒██▀ ▀█  ▒████▄     ██ ▀█   █    ▒██   ▒██▒  ██▒
 ▒██  ▀█▄  ▓██ ░▄█ ▒▒▓█    ▄ ▒██  ▀█▄  ▓██  ▀█ ██▒   ░██   ▒██░  ██▒
@@ -34,7 +35,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,fastapi,linux,git,aws,neovim,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,fastapi,linux,git,aws,neovim,html,css,php,javascript&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -92,7 +93,7 @@
 
 ---
 
-### Network Handshake
+### Network
 
 <div align="center">
 <br>
