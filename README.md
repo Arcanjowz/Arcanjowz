@@ -91,9 +91,7 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 
 ### ✞ Core Telemetry
 
-<div align="center"> <img height="180" src="https://github-stats-extended.vercel.app/api?username=arcanjowz&show_icons=true&hide_border=false&border_color=3a1218&border_radius=6&bg_color=120a0c&title_color=E63946&icon_color=C9A227&text_color=E8DCC8&ring_color=C41E3A&text_bold=false" alt="GitHub Stats" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=arcanjowz&background=120a0c&border=3a1218&stroke=3a1218&ring=C41E3A&fire=E63946&currStreakNum=E8DCC8&sideNums=E8DCC8&currStreakLabel=C9A227&sideLabels=A8A29A&dates=A8A29A&border_radius=6&locale=pt_BR" alt="Streak Stats" /> <br> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arcanjowz&layout=compact&hide_border=false&border_color=3a1218&border_radius=6&bg_color=120a0c&title_color=E63946&text_color=E8DCC8&count_private=true&include_forked_repos=true" alt="Top Languages" /> </div>
-
-</div>
+<div align="center"> <table> <tr> <td align="center" valign="middle"> <img height="170" src="https://github-stats-extended.vercel.app/api?username=arcanjowz&show_icons=true&hide_border=false&border_color=3a1218&border_radius=6&bg_color=120a0c&title_color=E63946&icon_color=C9A227&text_color=E8DCC8&ring_color=C41E3A&card_width=420" alt="GitHub Stats" /> </td> <td align="center" valign="middle"> <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=arcanjowz&background=120a0c&border=3a1218&stroke=3a1218&ring=C41E3A&fire=E63946&currStreakNum=E8DCC8&sideNums=E8DCC8&currStreakLabel=C9A227&sideLabels=A8A29A&dates=A8A29A&border_radius=6&locale=pt_BR" alt="Streak Stats" /> </td> </tr> <tr> <td colspan="2" align="center"> <img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=arcanjowz&layout=compact&hide_border=false&border_color=3a1218&border_radius=6&bg_color=120a0c&title_color=E63946&text_color=E8DCC8&count_private=true&include_forked_repos=true&card_width=420" alt="Top Languages" /> </td> </tr> </table> </div>
 
 ---
 
