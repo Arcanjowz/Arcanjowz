@@ -32,6 +32,7 @@
 │ > Editor: Neovim ⛧ VS Code
 │ > Russian: Basic | English: Advanced/Fluent
 ╰───────────────────────────────────────────────────────────────
+```
 
 🛠 Grimoire / Tech Stack
 <div align="center">
