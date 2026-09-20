@@ -13,7 +13,6 @@
         ░  ░   ░     ░ ░            ░  ░         ░   ░   ░      ░ ░   
 </pre>
 
-<!-- TYPING RETRÔ (Share Tech Mono + Cor Sangue + Transparente) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1200&color=A30000&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Arcanjo+%E2%9C%9E;Software+Engineering+%40+PUCPR;Linux+enjoyer+%7C+Arch+btw;DevSecOps+%26+Full+Stack+Development;No+matter+where+you+go%2C+everyone+is+connected." alt="Typing SVG" />
 </a>
@@ -23,7 +22,7 @@
 ---
 
 ```bash
-╭──[ arcanjo@arch ]──[ ~ ]──⛧
+╭──[ arcanjo@arch ]──[ ~ ]──
 │ $ whoami --details
 │
 │ > Status: Software Engineering student @ PUCPR
