@@ -127,7 +127,7 @@ Estudante de Engenharia de Software na **PUCPR**. Utilizo **Arch Linux** como si
 
 <br><br>
 
-<img src="./badges/visits.svg" width="420" alt="Souls Visited" /><br><img src="https://count.getloli.com/@arcanjowz?name=arcanjowz&theme=nixietube-1&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" width="420" height="10%" alt="Visitor counter" />
+<img src="./badges/visits.svg" width="420" alt="Souls Visited" /><br><img src="https://count.getloli.com/@arcanjowz?name=arcanjowz&theme=nixietube-1&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=1" width="420" height="100px" alt="Visitor counter" />
 
 <br><br>
 
