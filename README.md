@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=200&section=header&text=ARCANJO&fontSize=70&fontColor=8B0000&animation=twinkling&fontAlignY=38&desc=%E2%9C%9E%20Software%20Engineer%20%C2%B7%20Arch%20Linux%20%C2%B7%20DevSecOps%20%E2%9C%9E&descSize=18&descAlignY=60&descColor=7a7a7a" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=220&section=header&text=%F0%9D%95%AC%F0%9D%95%BD%F0%9D%95%AE%F0%9D%95%AC%F0%9D%95%B9%F0%9D%95%B5%F0%9D%95%BA&fontSize=80&fontColor=8B0000&stroke=000000&strokeWidth=2&animation=twinkling&fontAlignY=38&desc=%E2%9C%9E%20Software%20Engineer%20%C2%B7%20Arch%20Linux%20%C2%B7%20DevSecOps%20%E2%9C%9E&descSize=18&descAlignY=62&descColor=7a7a7a" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=21&pause=1000&color=8B0000&background=00000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Arcanjo+%E2%9C%9E;Software+Engineering+%40+PUCPR;Arch+Linux+enjoyer+%28btw%29;Currently+studying+Full+Stack+%26+DevSecOps;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%90%D1%80%D0%BA%D0%B0%D0%BD%D0%B6%D0%BE;Ol%C3%A1%2C+eu+sou+o+Arcanjo;No+matter+where+you+go%2C+everyone+is+connected." alt="Typing SVG" />
