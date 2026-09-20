@@ -1,0 +1,24 @@
+[arcanjo]
+[arcanjo.default_colors]
+fg = "#E8DCC8"
+bg = "#0b0708"
+
+[arcanjo.normal_colors]
+black = "#2a1418"
+red = "#C41E3A"
+green = "#7d9a6b"
+yellow = "#C9A227"
+blue = "#7a86a8"
+magenta = "#9c4a6a"
+cyan = "#8B95A5"
+white = "#A8A29A"
+
+[arcanjo.bright_colors]
+black = "#8a7f78"
+red = "#E63946"
+green = "#9fb98a"
+yellow = "#E0BE4A"
+blue = "#9aa5c4"
+magenta = "#c26a8a"
+cyan = "#aab4c2"
+white = "#E8DCC8"
