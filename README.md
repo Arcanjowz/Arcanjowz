@@ -106,18 +106,6 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 
 ---
 
-### ✞ Resonance (Spotify Live)
-
-<div align="center">
-
-<a href="https://open.spotify.com">
-  <img src="https://spotify-github-readme.cheerpy.org/api/status?uid=c14261c083fb492b&background_color=00000000&bar_color=8B0000&bar_color_cover=true" alt="Spotify Status" />
-</a>
-
-</div>
-
----
-
 ### ✞ Graveyard Commits
 
 <div align="center">
@@ -146,7 +134,7 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 <br>
 
 <a href="https://www.linkedin.com/in/miguel-pavin-olescki-6165912ab/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=8B0000" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/%E2%9C%9E%20LINKEDIN%20%E2%9C%9E-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=8B0000&labelColor=1a0000&color=8B0000" alt="LinkedIn" />
 </a>
 
 <br><br>
