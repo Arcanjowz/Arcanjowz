@@ -70,9 +70,6 @@ Estudante de Engenharia de Software na **PUCPR**. Vivo no terminal, uso **Arch L
 ### ✞ Grimoire & Tools
 
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,lua,php,js,html,css,mysql,postgres,sqlite,apache,linux,windows,git,aws,fastapi,neovim,bash&theme=dark&perline=9)](https://skillicons.dev)
-
 <br>
 
 <img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=8B0000" />
