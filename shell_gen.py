@@ -1,6 +1,6 @@
 import gifos
 
-FONT = "/home/claude/fonts/ShareTechMono-Regular.ttf"
+FONT = "./fonts/ShareTechMono-Regular.ttf"
 t = gifos.Terminal(width=760, height=356, xpad=24, ypad=18, font_file=FONT, font_size=17, line_spacing=6)
 t.set_fps(12)
 t.set_prompt("\x1b[91marcanjo\x1b[0m\x1b[90m@\x1b[0m\x1b[93march\x1b[0m \x1b[91m~\x1b[0m \x1b[93m$\x1b[0m ")
