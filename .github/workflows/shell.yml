@@ -34,6 +34,11 @@ jobs:
           mkdir -p ~/.config/gifos
           cp config/*.toml ~/.config/gifos/
 
+      - name: Baixar fonte
+        run: |
+          mkdir -p fonts
+          curl -L -o fonts/ShareTechMono-Regular.ttf https://raw.githubusercontent.com/google/fonts/main/ofl/sharetechmono/ShareTechMono-Regular.ttf
+      
       - name: Gerar GIF
         run: python3 shell_gen.py
 
